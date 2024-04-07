@@ -1,8 +1,8 @@
 # jsp_servlet
 Registration and Login form
 
-Install MySql server in your local machine.
-install tomcat server in your local machine.
+Install MySql server, 
+install tomcat server, 
 install NetBeans IDE in your local machine.
 
 create a new directory in local drive
