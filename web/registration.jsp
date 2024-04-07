@@ -38,7 +38,7 @@
                                 <input type="text" name="contact" id="contact" placeholder="Contact no" required="required" />
                             </div>
                             <div class="form-group">
-                                <input type="checkbox" name="agree-term" id="agree-term" class="agree-term"  />
+                                <input type="checkbox" name="agree-term" id="agree-term" class="agree-term" required="required" />
                                 <label for="agree-term" class="label-agree-term"><span><span></span></span>I agree all statements in <a href="#" class="term-service">Terms of service</a></label>
                             </div>
                             <div class="form-group form-button">
@@ -47,9 +47,6 @@
                         </form>
                     </div>
                     <div class="signup-image">
-                        <figure>
-                            <img src="images/signup-image.jpg" alt="sing up image">
-                        </figure>
                         <a href="login.jsp" class="signup-image-link">I am already member</a>
                     </div>
                 </div>
