@@ -1,3 +1,8 @@
+<%
+    if(session.getAttribute("email")==null){
+    response.sendRedirect("forgotPassword.jsp");
+    }
+%>
 <html>
 <head>
 
